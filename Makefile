@@ -30,4 +30,4 @@ test:
 	go test -v -race ./...
 
 docker:
-	docker build -t registry.devous.ru/faceit/app-subscriber:latest .
+	docker build -t registry.hoolie.io/faceit/app-subscriber:latest .
